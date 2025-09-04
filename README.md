@@ -3,6 +3,5 @@
 - Vue.js
 - Nuxt.js
 - Tailwind CSS
-- AWS Cloud
 
-https://kelxd.lol/kelboard
+https://kelboard.kelxd.lol
